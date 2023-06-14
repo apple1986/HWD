@@ -7,7 +7,7 @@ git clone https://github.com/fbcotter/pytorch_wavelets
 cd pytorch_wavelets
 pip install .
 `
-Please ref for more details: https://github.com/fbcotter/pytorch_wavelets
+Please refer for more details: https://github.com/fbcotter/pytorch_wavelets
 
 2. install semantic segmentation package 
 `
