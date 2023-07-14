@@ -20,3 +20,18 @@ Please refer for more details: https://github.com/qubvel/segmentation_models.pyt
 5. Dataset
 (1) Camvid: https://github.com/alexgkendall/SegNet-Tutorial
 (2) Synapse: https://pan.baidu.com/s/1PoCxb_BNAalm37pmPTOBmw   Code: asdf
+
+Please cite our paper if it is helpful to you. Thanks.
+`
+@article{XU2023109819,
+title = {Haar Wavelet Downsampling: A Simple but Effective Downsampling Module for Semantic Segmentation},
+journal = {Pattern Recognition},
+pages = {109819},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109819},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323005174},
+author = {Guoping Xu and Wentao Liao and Xuan Zhang and Chang Li and Xinwei He and Xinglong Wu},
+keywords = {Semantic segmentation, Downsampling, Haar wavelet, Information Entropy}
+}
+`
