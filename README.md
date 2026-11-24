@@ -103,7 +103,9 @@ If you are interested in wavelet-based representation learning or medical image 
   
 4. **Cheng, X., et al.** *Wavelet-ASPP U-Net: Enhancing ultrasound image segmentation with multi-scale context and frequency-aware features*. Biomedical Signal Processing and Control, 2027, 129: 111478.
 
-5. **Xu, G., et al.** *Is the Medical Image Segmentation Problem Solved? A Survey of Current Developments and Future Directions.* arXiv:2508.20139, 2025.
+5. **Wu X., et al.** *High-Frequency Guided Feature Refinement for Semi-supervised Ultrasound Image Segmentation*. International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2026.
+
+6. **Xu, G., et al.** *Is the Medical Image Segmentation Problem Solved? A Survey of Current Developments and Future Directions.* arXiv:2508.20139, 2025.
 
 ---
 
