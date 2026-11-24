@@ -100,8 +100,10 @@ If you are interested in wavelet-based representation learning or medical image 
 2. **Wu, X., et al.** *Wavelet Attention Fusion for Semi-Supervised Ultrasound Segmentation.* Biomedical Signal Processing and Control, 117 (2026): 109566.
 
 3. **Yue, W., et al.** *Wavelet-Based Frequency Replacement and Edge Enhancement for Semi-Supervised Fetal Ultrasound Image Segmentation.* Journal of Ultrasound in Medicine, 2026.
+  
+4. **Cheng, X., et al.** *Wavelet-ASPP U-Net: Enhancing ultrasound image segmentation with multi-scale context and frequency-aware features*. Biomedical Signal Processing and Control, 2027, 129: 111478.
 
-4. **Xu, G., et al.** *Is the Medical Image Segmentation Problem Solved? A Survey of Current Developments and Future Directions.* arXiv:2508.20139, 2025.
+5. **Xu, G., et al.** *Is the Medical Image Segmentation Problem Solved? A Survey of Current Developments and Future Directions.* arXiv:2508.20139, 2025.
 
 ---
 
